@@ -36,9 +36,9 @@ The planned RAG pipeline consists of the following steps:
 Development Roadmap
 
 - [x] Load PDF documents using PyPDFLoader.
-- [ ] Split documents into smaller chunks.
-- [ ] Generate embeddings.
-- [ ] Store embeddings in ChromaDB.
+- [x] Split documents into smaller chunks.
+- [x] Generate embeddings.
+- [x] Store embeddings in ChromaDB.
 - [ ] Retrieve relevant document chunks.
 - [ ] Generate answers using an LLM.
 - [ ] Build a Streamlit interface.

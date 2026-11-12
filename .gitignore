@@ -221,3 +221,6 @@ __marimo__/
 
 
 chroma_db/
+venv/
+.env
+__pycache__/
